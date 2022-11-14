@@ -1,13 +1,12 @@
-# Class: Main.py
-# Description: Driver to run everything
-# Author: R. Liang
-# Ver: 11/9/22
+# Class:        Main.py
+# Description:  Driver to run everything
+# Author:       R. Liang
+# Ver:          11/9/22
 
 from TextClassification import TextClassification
 from Bert import Bert
 
 text_classification = TextClassification()
-text_classification.complement_naive_bayes()
 bert = Bert()
 # text_classification.complement_naive_bayes()
 # text_classification.bernoulli_naive_bayes()

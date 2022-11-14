@@ -1,7 +1,8 @@
-# Class: TextClassification.py
-# Description: Uses NLP to classify text as either concerning or non-concerning
-# Author: R. Liang
-# Ver: 11/9/22
+# Class:        TextClassification.py
+# Description:  Uses NLP to classify text as either concerning or non-concerning
+# Author:       R. Liang
+# Ver:          11/9/22
+
 import os
 import pickle
 import re
