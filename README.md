@@ -10,3 +10,5 @@ To setup project (in Windows):
         python -m pip install -r requirements.txt  
     Note: Please be patient when installing requirements, wait for everything to be done in the cmd prompt, it might take a while!
 5. In your IDE (Pycharm) go to Files --> Settings --> Python Interpreter --> Python Interpreter: --> Show All... --> + --> Virtualenv Environment --> Location: Social-Media-Threat-Analysis\name_of_venv
+
+6. NOTE: MAKE SURE THE PYTHON VERSION YOU USE IS AT OR BELOW VER 3.10 IN ORDER FOR TF 2.10.0 TO INSTALL AND WORK CORRECTLY
