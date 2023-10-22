@@ -47,11 +47,11 @@ class ImageCaption:
 
         # extract features from image
         features = {}
-        directory = Path('../resources/combined1800')
+        directory = Path('../resources/test-images')
 
         for img_name in os.listdir(directory):
             # load the image from file
-            img_path = Path('../resources/combined1800/' + img_name)
+            img_path = Path('../resources/test-images/' + img_name)
             image = load_img(img_path, target_size=(224, 224))
             # convert image pixels to numpy array
             image = img_to_array(image)
@@ -66,10 +66,10 @@ class ImageCaption:
             # store feature
             features[image_id] = feature
 
-        # store features in pickle
-        pickle.dump(features, open(Path('../Outputs/pickled/features.pkl'), 'wb'))
+        # # store features in pickle
+        # pickle.dump(features, open(Path('../models/image/features.pkl'), 'wb'))
 
-        with open(Path('../resources/testing1800.txt'), 'r') as f:
+        with open(Path('../resources/test-img-captions.txt'), 'r') as f:
             next(f)
             captions_doc = f.read()
 
@@ -208,7 +208,7 @@ class ImageCaption:
             # create data generator
             generator = data_generator(train, mapping, features, tokenizer, max_length, vocab_size, batch_size)
             # fit for one epoch
-            model.fit(generator, epochs=1, steps_per_epoch=steps, verbose=1, batch_size=128)
+            model.fit(generator, epochs=1, steps_per_epoch=steps, verbose=1, batch_size=batch_size)
 
         def idx_to_word(integer, tokenizer):
             for word, index in tokenizer.word_index.items():
@@ -272,7 +272,7 @@ class ImageCaption:
             image_id = img_name.split('.')[0]
             # img_path = os.path.join("/content/", image_name)
             # img_path = os.path.join(BASE_DIR, "Images", image_name)
-            img_path = Path('../resources/combined1800/' + img_name)
+            img_path = Path('../resources/test-images/' + img_name)
             image = Image.open(img_path)
             captions = mapping[image_id]
             print('---------------------Actual---------------------')
@@ -285,12 +285,12 @@ class ImageCaption:
             plt.imshow(image)
 
         # generate_caption('knife-88_jpgrf3eb00f50e4524d8cfd555915016531ad.jpg')
-        with open(Path('../outputs/pickled/tokenizer.pickle'), 'wb') as f:
+        with open(Path('../models/image/tokenizer.pickle'), 'wb') as f:
             pickle.dump(tokenizer, f)
         print(model.metrics_names)
         print(features['knife-88_jpgrf3eb00f50e4524d8cfd555915016531ad'])
         # save the model
-        model.save(Path('../outputs/image/best_model.h5'))
+        model.save(Path('../models/image/best_model_reduced2.h5'))
         # print(predict_caption(model, ))
 
     def idx_to_word(self, integer, tokenizer):
@@ -347,16 +347,19 @@ class ImageCaption:
 
     def run_model(self, image_path):
         from keras.models import load_model
-        model = load_model(Path('../outputs/image/best_model.h5'))
+        import tensorflow
+        ###### CHANGE THE H5 MODEL YOU WANT TO RUN BELOW
+        model = tensorflow.keras.models.load_model(Path('../models/image/best_model_reduced.h5'), compile=False)
+        # model = load_model(Path('../models/image/best_model_2.h5'))
 
         # summarize model.
         # model.summary()
 
-        with open(Path('../outputs/pickled/tokenizer.pickle'), 'rb') as handle:
+        with open(Path('../models/image/tokenizer.pickle'), 'rb') as handle:
             tokenizer = pickle.load(handle)
 
         image = self.extract_features(image_path)
-        predicted_caption = self.predict_caption(model, image, tokenizer, 32)
+        predicted_caption = self.predict_caption(model, image, tokenizer, 29)
 
         # Remove startseq and endseq
         query = predicted_caption
@@ -364,5 +367,4 @@ class ImageCaption:
         querywords = query.split()
         resultwords = [word for word in querywords if word.lower() not in stopwords]
         result = ' '.join(resultwords)
-
-        print(result)
+        return result
