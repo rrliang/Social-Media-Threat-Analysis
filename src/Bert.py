@@ -175,8 +175,14 @@ class Bert:
         preprocess = 'bert_en_uncased_L-12_H-768_A-12'
         encoder = 'small_bert/bert_en_uncased_L-8_H-768_A-12'
 
-        bert_preprocess = hub.KerasLayer(map_model_to_preprocess[preprocess])
+        # accur_file = open(r"../models/text/bert_combos.txt", 'w')
+
+        # Can loop through each preprocessor and encoder and get the results of running each with each other in 2 fors
+
+        # for encoder in map_name_to_handle.keys():
         bert_encoder = hub.KerasLayer(map_name_to_handle[encoder])
+            # for preprocess in map_model_to_preprocess.keys():
+        bert_preprocess = hub.KerasLayer(map_model_to_preprocess[preprocess])
 
         text_input = tf.keras.layers.Input(shape=(), dtype=tf.string, name='text')
         preprocessed_text = bert_preprocess(text_input)
@@ -201,105 +207,45 @@ class Bert:
         y_predicted = y_predicted.flatten()
         y_predicted = np.where(y_predicted > 0.5, 1, 0)
 
-        # # PICKLE TRAINED BERT
-        # with open(Path('../outputs/Pickled/bert_en_uncased_L-8_H-768_A-12_model'), 'wb') as f:
-        #     pickle.dump(model, f)
-        model.save(Path('../outputs/Pickled/bert_en_uncased_L-8_H-768_A-12_model.h5'))
+        # Save the Bert model
+        model.save(Path('../models/text/'+encoder+'__'+preprocess+'.h5'))
 
         results = model.evaluate(X_test, y_test)
 
         print(results)
 
-        # y_eval = eval['Text'].values
-
         from sklearn.metrics import accuracy_score
         print(accuracy_score(y_test, y_predicted))
 
-        print('small_bert/bert_en_uncased_L-8_H-768_A-12' + ' Confusion Matrix:\n')
+        print('small_bert/'+encoder+'__' + preprocess + ':  Confusion Matrix:\n')
         cm = confusion_matrix(y_test, y_predicted)
         print(cm)
         print(classification_report(y_test, y_predicted))
-        # _tf = TfidfVectorizer(strip_accents='ascii', stop_words='english')
-        # x_train_tf = _tf.fit_transform(X_train)
-        #
-        # # transform the test set with vectoriser
-        # x_test_tf = _tf.transform(X_test)
-        # x_tf = _tf.transform(df_balanced['Text'])
 
-        # cross_validation = cross_val_score(model, x_tf, df_balanced['Text'], n_jobs=-1)
-        # print('small_bert/bert_en_uncased_L-8_H-768_A-12' + ' Cross Validation score = ', cross_validation)
-        # print('small_bert/bert_en_uncased_L-8_H-768_A-12' + ' Train accuracy = {:.2f}%'.format(
-        #     model.score(x_train_tf, y_train) * 100))
-        # print('small_bert/bert_en_uncased_L-8_H-768_A-12' + ' Test accuracy = {:.2f}%'.format(
-        #     model.score(x_test_tf, y_test) * 100))
-        # train = model.score(x_train_tf, y_train)
-        # test = model.score(x_test_tf, y_test)
-        # print('small_bert/bert_en_uncased_L-8_H-768_A-12' + ' Confusion Matrix:\n')
-        # complete = [train, test]
-        # predict = model.predict(self.x_test_tf)  # Predict test
-        # print(confusion_matrix(self._y_test, predict))  # Print confusion matrix
-        # print(classification_report(self._y_test, predict))  # Performance check using Complement Naive Bayes
+        # accur_file.write('small_bert/'+encoder+'__' + preprocess + ':\n')
+        # accur_file.write('loss: ' + str(results[0]))
+        # accur_file.write('accuracy: ' + str(results[1]))
+        # accur_file.write('precision: ' + str(results[2]))
+        # accur_file.write('recall: ' + str(results[3]))
+        # accur_file.write('Confusion Matrix:\n')
+        # accur_file.write(cm.toarray())
+        # accur_file.write(classification_report(y_test, y_predicted))
 
+        # accur_file.close()
 
-
-        # # ACCURACY BAR GRAPH
-        # label = ['Train Accuracy', 'Test Accuracy']
-        # plt.xticks(range(len(complete)), label)
-        # plt.ylabel('Accuracy')
-        # plt.title(naive_bayes_type + ' Accuracy bar graph for a sample of ' + str(self._dataset_size))
-        # plt.bar(range(len(complete)), complete, color=['pink', 'black'])
-        # train_acc = matplotlib_patches.Patch(color='pink', label='Train Accuracy')
-        # test_acc = matplotlib_patches.Patch(color='black', label='Test Accuracy')
-        # plt.legend(handles=[train_acc, test_acc], loc='best')
-        # plt.gcf().set_size_inches(10, 10)
-        # plt.savefig(Path('../outputs/Accuracy/train_and_test_accuracy_' + naive_bayes_type))
-        # plt.clf()
-        #
-        # # ROC CURVE
-        # model
-        # fpr_dt_1, tpr_dt_1, _ = roc_curve(self._y_test, model.predict_proba(self._x_test_tf)[:, 1])
-        # plt.plot(fpr_dt_1, tpr_dt_1, label='ROC curve ' + naive_bayes_type)
-        # plt.xlabel('False Positive Rate')
-        # plt.ylabel('True Positive Rate')
-        # plt.legend()
-        # plt.gcf().set_size_inches(8, 8)
-        # plt.savefig(Path('../outputs/ROC/ROC_curve_' + naive_bayes_type))
-        # plt.clf()
-        # roc_score = roc_auc_score(self._y_test, predict)  # Checking performance using ROC Score
-        # print(naive_bayes_type + ' Area Under the Curve = ' + str(roc_score) + '\n')
-        #
-        # # LIME
-        # # Converting the vectoriser and model into a pipeline, this is necessary as LIME takes a model pipeline
-        # # as an input
-        # pipeline = make_pipeline(self._tf, naive_bayes)
-        # ls_x_test = list(self._x_test)
-        # # Saving the class names in a dictionary to increase interpretability
-        # class_names = {0: 'negative', 1: 'positive'}
-        # lime_explainer = LimeTextExplainer(class_names=class_names)
-        # idx = randrange(len(ls_x_test))  # Choose a random single prediction, or use one number here for all to be same
-        # print(ls_x_test[idx])
-        # # Explain the chosen prediction, use the probability results of the logistic regression, can also add
-        # # num_features parameter to reduce the number of features explained
-        # lime_exp = lime_explainer.explain_instance(ls_x_test[idx], pipeline.predict_proba)
-        #
-        # print('Document id: ' + str(idx))
-        # print('Tweet: ' + ls_x_test[idx])
-        # print('Positivity =' + str(pipeline.predict_proba([ls_x_test[idx]]).round(3)[0, 1]))
-        # print('True class: ' + str(class_names.get(list(self._y_test)[idx])) + '\n')
-        # lime_exp.save_to_file(Path('../outputs/Lime/lime_' + naive_bayes_type + '.html'))
-        #
-        # lime_exp.as_pyplot_figure()
-        # plt.savefig(Path('../outputs/Lime/lime_' + naive_bayes_type + '_bargraph'))
-        # plt.clf()
 
     def run_model(self, pred_sentences):
-        model = load_model(Path('../outputs/Pickled/bert_en_uncased_L-8_H-768_A-12_model.h5'),
+        # Here you can change path of the already trained bert model if you want to use a different one
+        model = load_model(Path('../models/text/bert_en_uncased_L-8_H-768_A-12__bert_en_uncased_L-12_H-768_A-12.h5'),
                            custom_objects={'KerasLayer': hub.KerasLayer})
         predicted = model.predict(pred_sentences)
         for i in range(len(pred_sentences)):
-            print(pred_sentences[i])
+            # print(pred_sentences[i])
             num = predicted[i]
             if num > .5:
+                print(pred_sentences[i])
                 print("Positive: " + str(predicted[i]))
             else:
+                print(pred_sentences[i])
                 print("Negative: " + str(predicted[i]))
+        return num
