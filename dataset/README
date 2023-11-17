@@ -1,0 +1,19 @@
+*mass shooting (positive) diversity use to enhance results:
+ - Original, unedited 69 images of pictures posted online by mass shooters. Retrieved from their social medias, news outlet, etc. 
+ - 345 captions (5 captions per image)
+
+*school shooting (positive):
+ - Original, unedited 77 images of pictures posted online by school shooters. Retrieved from their social medias, news outlet, etc. 
+ - 385 captions (5 captions per image)
+
+*non shooter benign (negative):
+- 500 images obtained from the Kaggle8k dataset.
+- 2,500 captions (5 captions per image)
+
+*augmentedmass:
+ - 69 images from the mass shooting folder were augmented by editing images using techniques such as contrast, flip, rotate, brightness, color, and sharpness.
+ - 345 captions (5 captions per image)
+
+*augmentedschool:
+ - Similar to augmentedmass, 77 images from the school shooting folder were augmented by editing images using techniques such as contrast, flip, rotate, brightness, color, and sharpness.
+ - 385 captions (5 captions per image)
