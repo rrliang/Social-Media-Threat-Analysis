@@ -1,0 +1,386 @@
+image,caption
+schoolshooter1.jpg,A person is holding a magazine from a gun .
+schoolshooter1.jpg,Top-down view of a person sitting while holding a magazine on their lap .
+schoolshooter1.jpg,A person is holding a gun magazine on their lap .
+schoolshooter1.jpg,An overhead perspective of a person wearing dark clothing with a magazine for a gun in their hand . 
+schoolshooter1.jpg,A person is sitting with a magazine from a gun on their lap . 
+schoolshooter2.jpg,Two guns are placed on a carpet .
+schoolshooter2.jpg,There are two big rifles placed next to each other on a multi-colored carpet .
+schoolshooter2.jpg,Two rifles are on the floor . 
+schoolshooter2.jpg,Top-down view of two guns placed on a carpet .
+schoolshooter2.jpg,Black rifles are on a carpet floor .
+schoolshooter3.jpg,A guy is holding a gun near his face .
+schoolshooter3.jpg,A teenager is showing his pistol in front of a white wall .
+schoolshooter3.jpg,A boy is holding up a gun close to his face .
+schoolshooter3.jpg,A teenager is taking a picture of himself while holding a firearm.
+schoolshooter3.jpg,A boy is covering his face with a pistol . 
+schoolshooter4.jpg,A target painted on a red frame with bullet holes .
+schoolshooter4.jpg,There is a wooden frame with a target painted on it and there are bullet holes .
+schoolshooter4.jpg,A frame is covered in bullet holes with a target painted on it .
+schoolshooter4.jpg,Bullet holes are on a wooden frame that has a target painted in the center .
+schoolshooter4.jpg,A red picture frame has many bullet holes and in the middle there is a target painted on it . 
+schoolshooter5.jpg,Several guns and a bulletproof vest are placed on a bed . 
+schoolshooter5.jpg,There is a messy bed with sheets in a pile and beside it are many guns and a bulletproof vest .
+schoolshooter5.jpg,There are many firearms and a bulletproof vests on a bed . 
+schoolshooter5.jpg,Lots of guns are placed closed to each other near a pile of bed sheets on a bed . 
+schoolshooter5.jpg,There are many guns placed on a bed near a vest and sheets .
+schoolshooter6.jpg,A person is holding three knives between their fingers .
+schoolshooter6.jpg,A person has their face covereed while holding several knives in their hand .
+schoolshooter6.jpg,There are knives being held by a person with their face covered .
+schoolshooter6.jpg,There is a person wearing a bandana and hat to cover their face while holding knives in their hand .
+schoolshooter6.jpg,A person is holding three knives and their face is covered .
+schoolshooter7.jpg,A person wearing a hat and a bandana is showing the knife they are holding .
+schoolshooter7.jpg,There is a person holding a knife in front of their face .
+schoolshooter7.jpg,A person is wearing a bandana on their face while they hold a knife in their hand . 
+schoolshooter7.jpg,A person is showing the knife they are holding while they cover their face .
+schoolshooter7.jpg,There is a person with their face covered holding a knife .
+schoolshooter8.jpg,A person is showing a gun on a blue bed near a white basket .
+schoolshooter8.jpg,A hand is holding a gun beside a gray blanket in a bedroom .
+schoolshooter8.jpg,A man is holding a firearm in a room with boxes and a white basket .
+schoolshooter8.jpg,A boy has a gun in his hand on top of a blue bed beside a brown blanket .
+schoolshooter8.jpg,A person is showing their gun in a bedroom with boxes and a white door .
+schoolshooter9.jpg,A person is holding a rifle in front of a closet containing guns .
+schoolshooter9.jpg,There is a person 's hand holding a gun and behind it is a white basket and a closet with other guns .
+schoolshooter9.jpg,There is a person holding a rifle and behind it is a closet with other firearms .
+schoolshooter9.jpg,A person is holding a firearm in their hand while behind it is an open closet with several guns in it .
+schoolshooter9.jpg,There is a closet with guns inside and in front of it is a person 's hand holding a gun . 
+schoolshooter10.jpg,A gun is being aimed to a window that shows a neighborhood . 
+schoolshooter10.jpg,There is a gun being pointed to a sidewalk .
+schoolshooter10.jpg,The view of a gun being pointed to a neighborhood .
+schoolshooter10.jpg,There is a gun aimed outside shwoing a neighborhood  .
+schoolshooter10.jpg,A gun is being pointed and it is aiming for the sidewalk .
+schoolshooter11.jpg,There is a hand holding a box that has bullets .
+schoolshooter11.jpg,A hand is holding a box of ammunition .
+schoolshooter11.jpg,A person 's hand is holding a box that shows to be of ammunition .
+schoolshooter11.jpg,There is a hand carrying a box that has an image of a bullet and a gun .
+schoolshooter11.jpg,A person is holding a box that contains bullets for a rifle .
+schoolshooter12.jpg,A person is showing the pistol that they are carrying .
+schoolshooter12.jpg,There is a person 's hand holding a gun .
+schoolshooter12.jpg,A hand is holding a pistol .
+schoolshooter12.jpg,There is a person showing the gun that they have in their hand .
+schoolshooter12.jpg,A person 's hand holds a gun .
+schoolshooter13.jpg,A gun and a magazine are placed inside a case .
+schoolshooter13.jpg,There is a gun placed beside a magazine in a case .
+schoolshooter13.jpg,Inside a black case there is a pistol and a magazine .
+schoolshooter13.jpg,There is a black pistol placed next to a magazine inside a case .
+schoolshooter13.jpg,A pistol is next to a magazine in a case .
+schoolshooter14.jpg,A case is placed on a table and inside it is a gun and two magazines .
+schoolshooter14.jpg,There is a gun placed inside a case with two magazines next to it .
+schoolshooter14.jpg,A gun is next to two magazines on a black case .
+schoolshooter14.jpg,Inside an open case is a firearm and two magazines beside it .
+schoolshooter14.jpg,There are two magazines next to a gun placed on top of a flyer inside an open case .
+schoolshooter15.jpg,There is a gun , a knife , and a flashlight placed on top of a bed near an outlet .
+schoolshooter15.jpg,A knife , a pistol , and a flashlight are placed on a bed beside a power outlet .
+schoolshooter15.jpg,A knife is next to a firearm and a flashlight on a bed near an outlet .
+schoolshooter15.jpg,A gun is placed next to a knife and a flashlight on top of a bed . 
+schoolshooter15.jpg,There is a knife , a flashlight , and a pistol on a bed .
+schoolshooter16.jpg,A boy is holding a shotgun with the american flag .
+schoolshooter16.jpg,A guy in a blue shirt is posing with a gun behind his neck .
+schoolshooter16.jpg,A person is smiling with a firearm on his hand next to the american flag .
+schoolshooter16.jpg,A man is wearing a red and white cap and has a shotgun with bullets .
+schoolshooter16.jpg,A person is holding a gun with bullets while smiling and is next to the american flag .
+schoolshooter17.jpg,A man in a pink shirt smiles while holding a rifle .
+schoolshooter17.jpg,A guy with glasses carries a firearm in a shooting range .
+schoolshooter17.jpg,A man is happy while having a rifle .
+schoolshooter17.jpg,A person wearing a pink shirt is smiling while carrying a gun .
+schoolshooter17.jpg,A man holds a firearm while smiling .
+schoolshooter18.jpg,Two men stand in a field with guns in their hands while smiling .
+schoolshooter18.jpg,There are two men smiling while carrying a gun in their hands .
+schoolshooter18.jpg,There is a young man standing next to an older man and they are both smiling while standing in a field with guns in their hands . 
+schoolshooter18.jpg,Two men are next to each other smiling with rifles in their hands .
+schoolshooter18.jpg,Two men are posing and smiling while they each carry a gun in their hands .
+schoolshooter19.jpg,A young man looks surprised while being next to a gun .
+schoolshooter19.jpg,There is a rifle next to a man wearing glasses .
+schoolshooter19.jpg,The young man takes a picture of himself sitting next to a gun in a field .
+schoolshooter19.jpg,There a man wearing glasses and next to him is a rifle .
+schoolshooter19.jpg,A rifle is placed on a bench next to a man .
+schoolshooter20.jpg,A boy in a black hat is wearing headphones in a blue room with a gun behind him .
+schoolshooter20.jpg,A gun is on a table next to a blue hat and it is behind a kid with glasses .
+schoolshooter20.jpg,There is a kid wearing a black shirt and a hat, and behind him there is a gun hidden in the background .
+schoolshooter20.jpg,A guy with glasses has a serious face and there is a gun lying on a table .
+schoolshooter20.jpg,A boy is sitting in his room with a firearm placed behind him on a desk .
+schoolshooter21.jpg,A hand is holding a large bullet .
+schoolshooter21.jpg,There is a person 's hand holding a big yellow bullet and behind it is a person standing .
+schoolshooter21.jpg,A person 's hand is showing the bullet that it is carrying .
+schoolshooter21.jpg,There is a bullet on a hand .
+schoolshooter21.jpg,There is a hand holding a big bullet and behind it there is a person 's feet .
+schoolshooter22.jpg,A man in a red shirt is standing next to a gun in front of a closet .
+schoolshooter22.jpg,A person is smiling while holding a rifle .
+schoolshooter22.jpg,A man with glasses is wearing a red shirt while holding a gun .
+schoolshooter22.jpg,A young man is holding a gun in front of a beige wall .
+schoolshooter22.jpg,A person with glasses is smiling with a gun next to him .
+schoolshooter23.jpg,A boy is holding the antlers of a dead deer in a forest .
+schoolshooter23.jpg,There is a boy kneeling next to a dead deer while holding its antlers .
+schoolshooter23.jpg,A boy wearing a black hoodie holds the antlers of a dead deer .
+schoolshooter23.jpg,There is a dead deer beside a boy holding its antlers .
+schoolshooter23.jpg,A boy holds the antlers of a dead deer in a forest.
+schoolshooter24.jpg,A boy smiles with a gun in his hand while kneeling next to a man and a dead deer .
+schoolshooter24.jpg,There is a boy holding a rifle and next to him is a man holding the antlers of a dead deer .
+schoolshooter24.jpg,There is a man holding the antlers of a dead deer and beside him is a young boy smiling with a gun in his hand .
+schoolshooter24.jpg,A boy is smiling with a rifle in his hand while posing for a photo with a man holding the antlers of a dead deer .
+schoolshooter24.jpg,There is a dead deer on the ground and beside it is a man and a happy boy . 
+schoolshooter25.jpg,There is a collage of pictures of a boy holding a rifle and different angles of a bullet .
+schoolshooter25.jpg,A boy is carrying a rifle and beside it are images of a bullet .
+schoolshooter25.jpg,There are several images of a bullet and a boy holding a rifle .
+schoolshooter25.jpg,A collage of a boy looking surprised with a rifle in his hand and beside it are different angles of a bullet .
+schoolshooter25.jpg,A collage showing a bullet and a boy standing with a gun in his hand .
+schoolshooter26.jpg,A man is giving the middle finger while holding a gun with red numbers written over him .
+schoolshooter26.jpg,A person is wearing black clothing while carrying a gun in a room .
+schoolshooter26.jpg,A person is covering their face with a mask , glasses , and a hat while he carries a gun .
+schoolshooter26.jpg,A boy is wearing a black hat and a mask while holding a gun .
+schoolshooter26.jpg,A teenager is giving the middle finger and he has a rifle in his hand.
+schoolshooter27.jpg,There is a guy pointing a gun at the camera in his bedroom .
+schoolshooter27.jpg,There is a man holding a gun and pointing it at the camera .
+schoolshooter27.jpg,A man wearing a blue shirt is pointing a gun .
+schoolshooter27.jpg,A man holds a gun and points it at the camera in front of a bed .
+schoolshooter27.jpg,There is a guy aiming a pistol at the camera .
+schoolshooter28.jpg,There is a man pointing a gun under his chin in front of a bed .
+schoolshooter28.jpg,There is a guy holding a gun and pointing at his head .
+schoolshooter28.jpg,A man wearing a blue shirt is pointing a gun under his chin .
+schoolshooter28.jpg,A young man holds a pistol and points it at himself .
+schoolshooter28.jpg,A guy in his room with a gun in his hand and he points it to his face .
+schoolshooter29.jpg,There is a man wearing a blue shirt and he is aiming a gun at the camera .
+schoolshooter29.jpg,There is a young man aiming a gun while standing next to a messy bed .
+schoolshooter29.jpg,There is a guy holding a gun pointing it at the camera .
+schoolshooter29.jpg,The man is standing next to a bed with a gun in his hands .
+schoolshooter29.jpg,A man stands next to a bed while aiming a gun .
+schoolshooter30.jpg,A person wearing a mask is holding a gun in his hand .
+schoolshooter30.jpg,There is a young man covering his face while showing the gun that he has in his hand .
+schoolshooter30.jpg,A person wearing dark clothing is posing with a gun .
+schoolshooter30.jpg,There is a man wearing a mask while he holds a pistol .
+schoolshooter30.jpg,A person covering their face with a mask in carrying a gun in his hand .
+schoolshooter31.jpg,There a young man standing in front of a computer while pointing a gun .
+schoolshooter31.jpg,A guy wearing dark clothes points a gun .
+schoolshooter31.jpg,There is a young man aiming a gun while standing in front of a computer .
+schoolshooter31.jpg,A young man is aiming a pistol while standing in front a desk that has a computer .
+schoolshooter31.jpg,A man stands in his room with a gun in his hand and he points it at you .
+schoolshooter32.jpg,A guy wearing dark clothes and a mask is pointing a gun while standing in front of a computer .
+schoolshooter32.jpg,A teenager stands in front a computer while aiming a gun at the camera .
+schoolshooter32.jpg,There is a man standing with a gun in his hand and he points it at you .
+schoolshooter32.jpg,There is a man covering his face with a black mask and he is carrying a gun in his hand .
+schoolshooter32.jpg,A young man wearing a mask is aiming a pistol .
+schoolshooter33.jpg,A man is pointing a pistol while standing in front of a monitor.
+schoolshooter33.jpg,There is a guy standing in front a computer while aiming a gun .
+schoolshooter33.jpg,A man stands in front of a monitor while aiming a gun .
+schoolshooter33.jpg,A person wearing dark clothing is aiming a pistol.
+schoolshooter33.jpg,There is a man in his room with a gun in his hand and he points it at the camera .
+schoolshooter34.jpg,There is a dead frog next to a pile of blood .
+schoolshooter34.jpg,A frog is on the ground dead with blood next to it .
+schoolshooter34.jpg,There is blood next to a dead frog .
+schoolshooter34.jpg,A frog is dead and next to it is a puddle of blood .
+schoolshooter34.jpg,Lots of blood is coming out of the dead frog .
+schoolshooter35.jpg,A person is shooting at an apple in the snow .
+schoolshooter35.jpg,A gun was used to fire a bullet at an apple in the snow next to a tree .
+schoolshooter35.jpg,A person 's hand holds a gun that was fired at an apple in the snow .
+schoolshooter35.jpg,A hand is holding a gun while pointing it at the destroyed apple .
+schoolshooter35.jpg,There is a gun pointing at the destroyed apple on the ground .
+schoolshooter36.jpg,A man stands in a snowy forest with a gun in his hand .
+schoolshooter36.jpg,A person is firing a gun in the woods . 
+schoolshooter36.jpg,The man wearing dark clothes aims a gun in a forest covered in snow .
+schoolshooter36.jpg,There is a man standing in the woods while pointing a gun . 
+schoolshooter36.jpg,A person stands near several trees while aiming a gun .
+schoolshooter37.jpg,A person is shooting at an apple in the snow near a tree .
+schoolshooter37.jpg,A hand is pointing a gun at the destroyed apple in the snowy ground.
+schoolshooter37.jpg,A hand holds a gun that was used to shoot at an apple .
+schoolshooter37.jpg,A person 's hand is aiming a gun at the apple that is lying on the snowy ground .
+schoolshooter37.jpg,A hand is using a gun to shoot a bullet at an apple that lies in the snow next to a tree .
+schoolshooter38.jpg,A man is firing a gun in the snowy woods .
+schoolshooter38.jpg,A person is shooting at some trees in the forest .
+schoolshooter38.jpg,A man wearing dark clothes is aiming a gun in a snowy forest .
+schoolshooter38.jpg,A person stands in a forest while aiming a gun .
+schoolshooter38.jpg,A man stands in a snowy forest while pointing a gun at the trees .
+schoolshooter39.jpg,A man is pointing a gun at the camera .
+schoolshooter39.jpg,There is a person holding a gun and aiming at the camera .
+schoolshooter39.jpg,A man wearing a black shirt is holding a gun .
+schoolshooter39.jpg,A man with a serious face points a gun at the camera .
+schoolshooter39.jpg,There is a guy aiming a gun at the camera .
+schoolshooter40.jpg,A young man holds a gun and aims it at the camera .
+schoolshooter40.jpg,A man is pointing a gun at the camera .
+schoolshooter40.jpg,A guy wearing a black shirt is holding a gun .
+schoolshooter40.jpg,There is a man standing in front of a white wall with a gun in his hands . 
+schoolshooter40.jpg,A person with a serious face is aiming a gun at the camera .
+schoolshooter41.jpg,There is a man holding a gun while looking at the camera .
+schoolshooter41.jpg,There is a young man wearing a black shirt and he is holding a gun .
+schoolshooter41.jpg,A young man has a gun and he is looking at the camera .
+schoolshooter41.jpg,There is a man wearing a black shirt with a gun in his hand .
+schoolshooter41.jpg,A man with a serious face holds a gun .
+schoolshooter42.jpg,A man wearing a dark shirt is aiming a gun at the camera .
+schoolshooter42.jpg,A young man is pointing a gun at the camera .
+schoolshooter42.jpg,A person wearing a black shirt is holding a gun .
+schoolshooter42.jpg,There is a young man standing in front of a white wall with a gun in his hands . 
+schoolshooter42.jpg,A guy wearing a black shirt is pointing a gun at the camera .
+schoolshooter43.jpg,A man wearing a black jacket is aiming a gun at the camera .
+schoolshooter43.jpg,The man has a serious face and he is holding a gun .
+schoolshooter43.jpg,There is a man pointing a gun while looking at the camera .
+schoolshooter43.jpg,A person has a gun and he is looking at the camera .
+schoolshooter43.jpg,A young man is aiming a gun .
+schoolshooter44.jpg,A person is aiming a gun while standing outside .
+schoolshooter44.jpg,A man is holding a gun and aiming it in a shooting range .
+schoolshooter44.jpg,A person is at a shooting range while aiming with a gun .
+schoolshooter44.jpg,A guy is pointing a pistol in a field .
+schoolshooter44.jpg,A man is aiming a pistol .
+schoolshooter45.jpg,A man is practicing at shooting targets .
+schoolshooter45.jpg,A man wearing black clothing is at a shooting range and aiming a gun .
+schoolshooter45.jpg,A guy is holding a firearm near a lake .
+schoolshooter45.jpg,A person with a black hat is pointing a gun at a target .
+schoolshooter45.jpg,A person is aiming a gun outside in a field .
+schoolshooter46.jpg,A man points a gun outside in a shooting range.
+schoolshooter46.jpg,A person in a black jacket holds a gun in a field .
+schoolshooter46.jpg,A guy is aiming a pistol outdoors .
+schoolshooter46.jpg,A man wearing a black jacket and black pants is holding a gun .
+schoolshooter46.jpg,A man is aiming a pistol while standing outside .
+schoolshooter47.jpg,There is a man pointing a gun outside in a shooting range.
+schoolshooter47.jpg,A guy is aiming a pistol in a field . 
+schoolshooter47.jpg,A person is at a shooting range aiming a gun .
+schoolshooter47.jpg,A man wearing black clothes is holding a gun .
+schoolshooter47.jpg,There is a guy wearing a black hat and he is pointing a gun outside .
+schoolshooter48.jpg,A man points a finger while holding a gun .
+schoolshooter48.jpg,There is a man looking at the camera while pointing a gun .
+schoolshooter48.jpg,A man is holding a gun and he is pointing a finger while looking at the camera .
+schoolshooter48.jpg,A man wearing a black jacket is holding a gun . 
+schoolshooter48.jpg,There is a man looking at the camera with a gun in his hand .
+schoolshooter49.jpg,A man is aiming a gun outside in a field .
+schoolshooter49.jpg,A guy is holding a pistol outdoors .
+schoolshooter49.jpg,A man is holding a gun and pointing it in a shooting range .
+schoolshooter49.jpg,There is a man aiming a gun outside in a shooting range.
+schoolshooter49.jpg,A man wearing black clothing is aiming a gun in a shooting range .
+schoolshooter50.jpg,There is a man wearing black clothes is holding a gun .
+schoolshooter50.jpg,A person is at a shooting range near a bench with a gun in his hand .
+schoolshooter50.jpg,A person stands near a bench while looking at the pistol he is holding .
+schoolshooter50.jpg,A person is standing outside with a gun in his hand.
+schoolshooter50.jpg,A man wearing black clothing is at a shooting range and looking at the gun he is holding .
+schoolshooter51.jpg,A man walks in a shooting range with a gun in his hand .
+schoolshooter51.jpg,There is a man wearing black clothing while carrying a gun in his hand .
+schoolshooter51.jpg,A guy stands in a shooting range and he is holding a pistol .
+schoolshooter51.jpg,There is a person walking outside with a gun in his hand .
+schoolshooter51.jpg,A man wearing black clothes is holding a pistol in his hand .
+schoolshooter52.jpg,A man wearing a black jacket is on the floor and he is firing a gun . 
+schoolshooter52.jpg,A man shoots with a gun while he is on the ground infront of a wooden table .
+schoolshooter52.jpg,A person is pointing a gun while laying on the floor .
+schoolshooter52.jpg,A guy is aiming a gun while lying on the ground .
+schoolshooter52.jpg,A person in a black jacket fires a gun while lying on the wooden floor .
+schoolshooter53.jpg,A person wearing a clown mask is pointing a gun at their head .
+schoolshooter53.jpg,There is a person pointing a pistol at their head .
+schoolshooter53.jpg,A person wearing a clown mask has a gun pointed to their head .
+schoolshooter53.jpg,A person covers their face with a mask while aiming a gun at their head .
+schoolshooter53.jpg,There is a person holding a gun to their head .
+schoolshooter54.jpg,A person wearing a clown mask is pointing a gun to the camera .
+schoolshooter54.jpg,There is a person holding a gun at the camera .
+schoolshooter54.jpg,A person covers their face with a mask while aiming a gun at the camera .
+schoolshooter54.jpg,A person is aiming a gun at the camera .
+schoolshooter54.jpg,A person wearing a clown mask is pointing a pistol at the camera .
+schoolshooter55.jpg,A little boy smiles with a gun in his hand .
+schoolshooter55.jpg,There is a happy little boy looking at the camera with a gun in his hands .
+schoolshooter55.jpg,A little boy is staring at the camera while he holds a gun in his hands .
+schoolshooter55.jpg,A young boy is smiling while standing infront of a wooden fence and holding a gun in his hands .
+schoolshooter55.jpg,A boy is carrying a gun in his hands while standing infront of a wooden fence .
+schoolshooter56.jpg,A man wearing black clothes is kneeling while he holds a gun .
+schoolshooter56.jpg,A man looks to his side while kneeling and holding a gun .
+schoolshooter56.jpg,A man is kneeling near a fireplace while he holds a gun .
+schoolshooter56.jpg,There is a man holding a gun and he is kneeling near a fireplace .
+schoolshooter56.jpg,A man wearing black clothing is on his knees with a gun in his hand .
+schoolshooter57.jpg,There is a man standing infront of a fireplace while carrying a gun in his hands .
+schoolshooter57.jpg,A man wearing black clothes is carrying a gun in his hands .
+schoolshooter57.jpg,There is a man looking at the camera and he is holding a gun .
+schoolshooter57.jpg,A person stands near a fireplace while he has a gun in his hands .
+schoolshooter57.jpg,There is a guy wearing black clothing and he is standing with a gun in his hands .
+schoolshooter58.jpg,A man is kneeling near a fireplace while he aims a gun .
+schoolshooter58.jpg,There is a man wearing black clothes while on his knees and he is pointing a gun .
+schoolshooter58.jpg,A guy is on his knees with a gun in his hand .
+schoolshooter58.jpg,There is a man kneeling infront of a fireplace while aiming a gun .
+schoolshooter58.jpg,A person is wearing black clothes and he is pointing a gun .
+schoolshooter59.jpg,A man is on his knees and he is holding a gun .
+schoolshooter59.jpg,There is a man kneeling infront of a fireplace and he is holding a gun .
+schoolshooter59.jpg,There is a man looking at the camera while kneeling and he is holding a gun .
+schoolshooter59.jpg,There is a man wearing black clothes while on his knees and he is carrying a gun .
+schoolshooter59.jpg,There is a guy holding a gun and he is kneeling near a fireplace .
+schoolshooter60.jpg,A person stands near a tv while he has a gun in his hand .
+schoolshooter60.jpg,A man is wearing black clothes and he is looking down while there is a gun in his hand .
+schoolshooter60.jpg,There is a man wearing black clothing and he is standing with a gun in his hand .
+schoolshooter60.jpg,A man stands infront of a tv with a gun in his hand .
+schoolshooter60.jpg,There is a young man looking down while holding a gun in his hand .
+schoolshooter61.jpg,A man wearing black clothes looks at the camera while he holding a gun .
+schoolshooter61.jpg,A man looks at the camera while he stands infront of a brick wall with a gun in his hand .
+schoolshooter61.jpg,There is a man carrying a gun and he is looking at the camera .
+schoolshooter61.jpg,A guy is wearing black clothing and he is standing with a gun in his hand .
+schoolshooter61.jpg,A young man stands infront of a brick wall with a gun in his hand .
+schoolshooter62.jpg,A man is posing for a picture while he is carrying a gun .
+schoolshooter62.jpg,A man sticks his tongue out and he is holding a gun in his hand .
+schoolshooter62.jpg,There is a young man wearing black clothes and he is carrying a gun while making the "rock" sign .
+schoolshooter62.jpg,A man is making the rock sign while sticking his tongue out and he is carrying a gun .
+schoolshooter62.jpg,A man is carrying a gun while standing infront of a fireplace and he has his tongue out .
+schoolshooter63.jpg,A man is taking a picture of himself while holding a knife .
+schoolshooter63.jpg,There is a man infront of a piture of a bike and he is holding a knife .
+schoolshooter63.jpg,A man holds a knife infront of his face 
+schoolshooter63.jpg,A person is taking a selfie and they are showing the knife that it in their hand .
+schoolshooter63.jpg,There is a man posing with a knife in his hand .
+schoolshooter64.jpg,A man is holding a gun over his shoulder while looking at the camera . 
+schoolshooter64.jpg,There is a man with a serious face carrying a gun while standing infront of a poster .
+schoolshooter64.jpg,A serious man is holding a gun over his shoulder while looking at the camera . 
+schoolshooter64.jpg,A person wearing a black shirt looks at the camera and he is holding a gun .
+schoolshooter64.jpg,A man carries a gun over his shoulder while he looks at the camera .
+schoolshooter65.jpg,A man is holding a big knife while standing next to a poster .
+schoolshooter65.jpg,There is a man showing a big knife and he is near a poster .
+schoolshooter65.jpg,A person is carrying a knife while looking at the camera .
+schoolshooter65.jpg,There is a person wearing a black shirt and he is carrying a sharp knife .
+schoolshooter65.jpg,A man is showing the knife that he is holding .
+schoolshooter66.jpg,The man holds a gun and points it at the camera .  
+schoolshooter66.jpg,A man wearing a black shirt is holding a gun in his hands .
+schoolshooter66.jpg,A person is aiming a gun at the camera .
+schoolshooter66.jpg,There is a man looking at the camera while pointing a gun .
+schoolshooter66.jpg,A man is pointing a gun at the camera .
+schoolshooter67.jpg,There is a man holding a gun and he is pointing it at the camera . 
+schoolshooter67.jpg,A man wearing a black shirt is pointing a gun .
+schoolshooter67.jpg,A man is aiming a gun at the camera .
+schoolshooter67.jpg,The man is holding a gun and he is aiming it at the camera .
+schoolshooter67.jpg,A person is looking at the camera while pointing a gun .
+schoolshooter68.jpg,A boy is aiming a gun at the camera .
+schoolshooter68.jpg,There is a boy wearing sunglasses and he is holding a gun in his hand .
+schoolshooter68.jpg,A young boy stands infront of a wall with a gun in his hand .
+schoolshooter68.jpg,There is a person carrying a gun in his hand .
+schoolshooter68.jpg,A boy with sunglasses is holding a gun and aiming it at the camera .
+schoolshooter69.jpg,A teenager is standing while shooting a firearm in his backyard .
+schoolshooter69.jpg,A boy with sunglasses is pointing a gun . 
+schoolshooter69.jpg,There is a kid wearing a black flannel and he is holding a gun .
+schoolshooter69.jpg,A person is aiming and shooting a rifle outside .
+schoolshooter69.jpg,There is a guy is pointing a gun while shooting at an object in a backyard .
+schoolshooter70.jpg,A kid is sitting on a chair outside a house with a gun in his hand .    
+schoolshooter70.jpg,A boy is wearing sunglasses and a black jacket while holding a gun .
+schoolshooter70.jpg,There is a boy sitting near a grill and a window while holding a gun .
+schoolshooter70.jpg,A teenager is sitting in front of a blue house with a firearm in his hands .
+schoolshooter70.jpg,There is a boy sitting in a chair outside while holding a gun his hands .
+schoolshooter71.jpg,A kid is holding a toy gun in his hand next to a black chair and posters .
+schoolshooter71.jpg,A boy with glasses is showing a gun in his bedroom .
+schoolshooter71.jpg,A person is holding a gun in front of a blue wall with posters .
+schoolshooter71.jpg,A teenager is wearing a blue shirt and a hat while a toy gun is in his hand .
+schoolshooter71.jpg,A boy is in his room with a toy gun next to a chair and a monitor .
+schoolshooter72.jpg,A man wearing camouflage clothes is standing in a forest with a gun in his hands .
+schoolshooter72.jpg,There is a man standing near trees while wearing hunting gear and carrying a gun .
+schoolshooter72.jpg,A person stands in the woods while holding a gun .
+schoolshooter72.jpg,A man is holding a gun in his hands and he is wearing camouflage clothes .
+schoolshooter72.jpg,There is a man wearing hunting gear while carrying a gun .
+schoolshooter73.jpg,A young man is in his room with a rifle in his hands .
+schoolshooter73.jpg,A man stands in a room while carrying a big gun .
+schoolshooter73.jpg,There is a young man wearing a black coat and he is looking at the gun that he is holding .
+schoolshooter73.jpg,A person stands in a room while carrying a gun in their hands .
+schoolshooter73.jpg,There is a man wearing a black coat and he is standing in a room with a gun in his hands .
+schoolshooter74.jpg,A person is outside with a gun in their hands .
+schoolshooter74.jpg,There is a man wearing a cap and sunglasses while carrying a rifle .
+schoolshooter74.jpg,A man is at a shooting range with a gun in his hand .
+schoolshooter74.jpg,There is a man carrying a gun outside .
+schoolshooter74.jpg,A young man is holding a rifle in a field .
+schoolshooter75.jpg,A person is aiming a gun at the camera .
+schoolshooter75.jpg,There is a person wearing a cap and they are holding a gun in their hands .
+schoolshooter75.jpg,A young man is pointing a gun at you .
+schoolshooter75.jpg,A man wearing a cap is holding a gun .
+schoolshooter75.jpg,There is a man pointing a gun at the camera .
+schoolshooter76.jpg,A person is in the woods with a gun being pointed at the camera .
+schoolshooter76.jpg,A young man is in a forest with a gun in his hand .
+schoolshooter76.jpg,There is a man wearing sunglasses and he is aiming a gun at the camera .
+schoolshooter76.jpg,There is a person wearing dark clothes and sunglasses while pointing a gun .
+schoolshooter76.jpg,A man is in the woods and he is aiming a gun at the camera .
+schoolshooter77.jpg,A person in a poorly lit room is aiming a gun at the camera .
+schoolshooter77.jpg,A man with a serious face is pointing a gun at you .
+schoolshooter77.jpg,A man is holding a gun and aiming it at the camera .
+schoolshooter77.jpg,There is a man wearing dark clothes and he pointing a gun at the camera .
+schoolshooter77.jpg,A man is pointing a gun at the camera .
